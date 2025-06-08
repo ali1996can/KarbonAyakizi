@@ -1,0 +1,10 @@
+category,type,unit,emission_kg
+food,beef,kg,27
+food,chicken,kg,6.9
+food,vegetarian,kg,2.0
+transport,car,km,0.21
+transport,bus,km,0.1
+transport,bike,km,0
+energy,electricity,kWh,0.42
+flight,short-haul,km,0.15
+flight,long-haul,km,0.2
